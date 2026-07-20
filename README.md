@@ -44,3 +44,8 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost
 ## Author
 
 Ravi Singh Bungla — [ravisingh110705@gmail.com](mailto:ravisingh110705@gmail.com)
+
+## Other Projects
+- [Titanic Survival Prediction](https://github.com/ravisingh110705-ml/titanic-survival-prediction)
+- [Medical Insurance Cost Prediction](https://github.com/ravisingh110705-ml/medical-insurance-cost-prediction)
+- [Telco Customer Churn Prediction](https://github.com/ravisingh110705-ml/telco-churn-prediction)
